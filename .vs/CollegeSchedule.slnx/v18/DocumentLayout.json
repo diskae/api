@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\C#\\CollegeSchedule\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E47DFB3-44E9-CA2E-5200-368C4417B008}|CollegeSchedule.csproj|d:\\projects\\c#\\collegeschedule\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E47DFB3-44E9-CA2E-5200-368C4417B008}|CollegeSchedule.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E47DFB3-44E9-CA2E-5200-368C4417B008}|CollegeSchedule.csproj|d:\\projects\\c#\\collegeschedule\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E47DFB3-44E9-CA2E-5200-368C4417B008}|CollegeSchedule.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,19 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\CollegeSchedule\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:18:52.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Schedule.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\Schedule.cs",
               "RelativeDocumentMoniker": "Models\\Schedule.cs",
               "ToolTip": "D:\\Projects\\C#\\CollegeSchedule\\Models\\Schedule.cs",
               "RelativeToolTip": "Models\\Schedule.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T17:16:11.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Weekday.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\Weekday.cs",
               "RelativeDocumentMoniker": "Models\\Weekday.cs",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Subject.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "Models\\Subject.cs",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Teacher.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StudentGroup.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\StudentGroup.cs",
               "RelativeDocumentMoniker": "Models\\StudentGroup.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Specialty.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\Specialty.cs",
               "RelativeDocumentMoniker": "Models\\Specialty.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LessonTime.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\LessonTime.cs",
               "RelativeDocumentMoniker": "Models\\LessonTime.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LessonGroupPart.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\LessonGroupPart.cs",
               "RelativeDocumentMoniker": "Models\\LessonGroupPart.cs",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Classroom.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\Classroom.cs",
               "RelativeDocumentMoniker": "Models\\Classroom.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Building.cs",
               "DocumentMoniker": "D:\\Projects\\C#\\CollegeSchedule\\Models\\Building.cs",
               "RelativeDocumentMoniker": "Models\\Building.cs",
